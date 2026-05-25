@@ -1,0 +1,43 @@
+.titulo{
+    display: flex;
+    justify-content: space-between;
+}
+
+#foto-instagram{
+    height: 30px;
+    width: 30px;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.foto-famoso{
+    width: 50%;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+
+.tarjeta{
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #333;
+    border-radius: 2px;
+    padding: 2px;
+    margin-bottom: 3px;
+    background-color: #222121;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.iconos {
+    text-align: left;
+}
